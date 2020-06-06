@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+body
+{
+    background-image: linear-gradient(to right, #fd372d, #e60a0a);
+}
+
+.title
+{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 60px;
+    color: black
+}
+.description
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 50px;
+    font-size: 18px;
+    color: black;
+    text-align: left;
+}
+.logo
+{
+    margin-top: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pic
+{
+    height: 70%;
+    width: 70%;
+    min-width: 20%;
+    min-height: 20%;
+}
+
+.buttonSection
+{
+    text-align: center;
+}
+.myButton
+{
+    margin-top: 10px;
+    background-color: black;
+    border: none;
+    color: white;
+    width: 80px;
+    height: 30px;
+    text-decoration: none;
+}
+.myButton:hover
+{
+    cursor: pointer;
+    transform: translateY(-3px);
+}
+
+.myTableComp
+{
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
