@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PiW-lab5/static/css/main.d6e23e5c.chunk.css",
+    "main.js": "/PiW-lab5/static/js/main.19b8ac20.chunk.js",
+    "main.js.map": "/PiW-lab5/static/js/main.19b8ac20.chunk.js.map",
+    "runtime-main.js": "/PiW-lab5/static/js/runtime-main.9a8f7865.js",
+    "runtime-main.js.map": "/PiW-lab5/static/js/runtime-main.9a8f7865.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/PiW-lab5/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c32ad0f9.chunk.js": "/PiW-lab5/static/js/2.c32ad0f9.chunk.js",
+    "static/js/2.c32ad0f9.chunk.js.map": "/PiW-lab5/static/js/2.c32ad0f9.chunk.js.map",
+    "index.html": "/PiW-lab5/index.html",
+    "precache-manifest.17d7c9735c2e4109959f7a605f31eeaf.js": "/PiW-lab5/precache-manifest.17d7c9735c2e4109959f7a605f31eeaf.js",
+    "service-worker.js": "/PiW-lab5/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/PiW-lab5/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.d6e23e5c.chunk.css.map": "/PiW-lab5/static/css/main.d6e23e5c.chunk.css.map",
+    "static/js/2.c32ad0f9.chunk.js.LICENSE.txt": "/PiW-lab5/static/js/2.c32ad0f9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/PiW-lab5/static/media/logo.e703654b.svg",
+    "static/media/wolf.png": "/PiW-lab5/static/media/wolf.0e1a1222.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a8f7865.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c32ad0f9.chunk.js",
+    "static/css/main.d6e23e5c.chunk.css",
+    "static/js/main.19b8ac20.chunk.js"
+  ]
+}
